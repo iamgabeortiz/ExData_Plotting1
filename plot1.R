@@ -1,3 +1,12 @@
+## #############################################################################
+# Exploratory Data Anlysis Course Project 1 / plot1.R
+#
+# Gabriel Ortiz / gabeortiz@icloud.com
+#
+# Generates plot1.png
+#
+## #############################################################################
+
 ## Get working directory.
 wd <- getwd()
 
