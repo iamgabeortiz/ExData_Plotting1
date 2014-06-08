@@ -6,7 +6,6 @@
 # Builds data.frame subset of very large household_power_consumption.txt file
 #
 ## #############################################################################
-
 ## Assumption
 #      This function assumes you have unzipped the required file and it is in
 #      your working directory.  The file itself is > 100 mb and therfore cannot
@@ -17,6 +16,7 @@
 #
 ## Return
 #      data.frame
+## #############################################################################
 
 dataprep <- function() {
         ## Select the column names to populate our data drame.
